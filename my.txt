@@ -1,8 +1,3 @@
-saas.sin.fan#优选域名
-cf.008500.xyz#优选域名
-cf.zhetengsha.eu.org#优选域名
-cloudflare.182682.xyz#优选域名
-cdns.doon.eu.org#优选域名
 104.25.253.220#优选IPV4
 104.25.255.249#优选IPV4
 104.17.217.226#优选IPV4
